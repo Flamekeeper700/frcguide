@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Talon SRX",
+      "path": "components/talon-srx.html",
+      "categories": ["motor-controllers"]
+    },
+    {
+      "name": "Spark MAX",
+      "path": "components/spark-max.html",
+      "categories": ["motor-controllers"]
+    }
+  ]
+  

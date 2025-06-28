@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    padding: 1rem;
+  }
+  header {
+    background: #004080;
+    color: white;
+    padding: 1rem;
+  }
+  input#search {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 1rem;
+  }
+  main ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  main li {
+    margin: 0.5rem 0;
+  }
+  a {
+    color: #004080;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
